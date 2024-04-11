@@ -5,7 +5,10 @@ It is news website where you can view daily news and get update.
 ## Deployment
 
 1.download zip from git
+
 2.unzip file
+
+
 3.To install dependencies
 
 ```bash
